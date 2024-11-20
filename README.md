@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leontiad)](https://git.io/streak-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leontiad)
